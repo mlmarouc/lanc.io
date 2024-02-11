@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'Frisco\'s Chicken',
         'Caribbean Wave Jamaican Jerk',
         'Chellas Arepa Kitchen',
+        'Cabalar',
     ];
 
     // Array of dinner names
@@ -66,6 +67,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'Two Poodles Bagels',
         'Cafe One Eight',
         'Amanita',
+        'La Petite Patisserie',
+        'La Dolce Vita',
+        'The Bread Peddler',
+        'Wish You Well Bakery',
     ];
 
     // Define global variables to track current restaurant type and available names
