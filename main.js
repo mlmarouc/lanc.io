@@ -20,6 +20,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'Caribbean Wave Jamaican Jerk',
         'Chellas Arepa Kitchen',
         'Cabalar',
+        'Luca Pizzeria',
+        'Shake Shack',
     ];
 
     // Array of dinner names
