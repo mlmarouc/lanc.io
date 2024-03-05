@@ -59,6 +59,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'El Serrano',
         'Zoetropolis',
         'Taj Mahal',
+        'Passerine',
     ];
 
     // Array of breakfast names
